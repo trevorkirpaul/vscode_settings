@@ -1,0 +1,10 @@
+## Prettier
+
+### .vscode // settings.json
+```json
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true
+}
+```
